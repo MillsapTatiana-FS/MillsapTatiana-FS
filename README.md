@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MillsapTatiana-FS
 - 👀 I’m interested in technology and crystals
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Python to begin my AI/ML journey
 - 💞️ I’m looking to collaborate on anything that can help a baby coder get better
 - 📫 How to reach me on here or email me @ tatianamillsap@outlook.com
 
