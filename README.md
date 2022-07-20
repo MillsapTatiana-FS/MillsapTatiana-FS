@@ -8,6 +8,6 @@
 MillsapTatiana-FS/MillsapTatiana-FS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://wakatime.com/badge/github/MillsapTatiana-FS/MillsapTatiana-FS"><img src="https://wakatime.com/badge/github/MillsapTatiana-FS/MillsapTatiana-FS.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/github/MillsapTatiana-FS/MillsapTatiana-FS">[![wakatime](https://wakatime.com/badge/user/1bf9f280-e20a-4e28-914c-e1f2e4df008a.svg)](https://wakatime.com/@1bf9f280-e20a-4e28-914c-e1f2e4df008a)</a>
 
 
