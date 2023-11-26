@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MillsapTatiana-FS
-- 👀 I’m interested in technology and crystals
-- 🌱 I’m currently learning Python to begin my AI/ML journey
-- 💞️ I’m looking to collaborate on anything that can help a baby coder get better
+- 👀 I’m interested in front-end development and UX/UI design
+- 🌱 I’m currently learning how to contribute to open-source repos
+- 💞️ I’m looking to collaborate on anything that can help me gain real-world experience.
 - 📫 How to reach me on here or email me @ tatianamillsap@outlook.com
 
 <!---
